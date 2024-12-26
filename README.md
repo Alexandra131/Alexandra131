@@ -25,8 +25,20 @@
     - [Assignment of students for optional subjects](https://github.com/Alexandra131/Assignment-of-students-for-optional-subjects)
     - [Social media platform](https://github.com/Alexandra131/SocialMediaPlatform)
     - [eBanking](https://github.com/Alexandra131/eBanking)
-    - [Halite bot](https://github.com/Alexandra131/HaliteBot) 
+    - [Halite bot](https://github.com/Alexandra131/HaliteBot)
 
+- Functional programming projects (Racket / Haskell)
+  - [Functional Images](https://github.com/Alexandra131/FunctionalImages)
+  - [Suffix tree](https://github.com/Alexandra131/SuffixTree)
+
+- Python Projects
+  - [Stegano](https://github.com/Alexandra131/Stegano)
+
+- Assembly language projects
+  - [Assembly32bit-64bit](https://github.com/Alexandra131/Assembly32bit-64bit-)
+  - [Assembly Cache Simulation](https://github.com/Alexandra131/Assembly)
+
+  
 - 📫 How to reach me **alexandracorcodel2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
