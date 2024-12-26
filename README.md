@@ -1,4 +1,4 @@
-[![MasterHead](https://www.telework.ro/wp-content/uploads/2014/11/code-113611.jpg)]
+![MasterHead](https://www.telework.ro/wp-content/uploads/2014/11/code-113611.jpg)
 <h1 align="center">Hi 👋, I'm Alexanda Andreea Corcodel</h1>
 <h3 align="center">I am proficient in a variety of programming languages, including C, C++, Java, Assembly, Racket, and Haskell, with a solid background in working with Linux environments and utilizing Git for version control. In terms of soft skills, I excel in critical thinking, problem-solving, and communication, alongside experience in public speaking and leadership.</h3>
 
