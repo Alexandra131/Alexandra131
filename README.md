@@ -21,6 +21,12 @@
   - [Find the optimal way](https://github.com/Alexandra131/Graphs)
   - [CSAT](https://github.com/Alexandra131/CSAT)
 
+ - Java language projects
+    - [Assignment of students for optional subjects](https://github.com/Alexandra131/Assignment-of-students-for-optional-subjects)
+    - [Social media platform](https://github.com/Alexandra131/SocialMediaPlatform)
+    - [eBanking](https://github.com/Alexandra131/eBanking)
+    - [Halite bot](https://github.com/Alexandra131/HaliteBot) 
+
 - 📫 How to reach me **alexandracorcodel2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
